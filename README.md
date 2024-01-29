@@ -3,17 +3,17 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  <img align="center" alt="spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> 
-  <img align="center" alt="postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
-  <img align="center" alt="aws" height="30" width="40" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png"> 
-  <img align="center" alt="mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> 
+  <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <img align="center" alt="spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> 
+  <img align="center" alt="postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
+  <img align="center" alt="aws" height="30" width="30" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png"> 
+  <img align="center" alt="mysql" height="30" width="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> 
 </div><br>
 
 <div align="center" color="#fff">
