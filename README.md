@@ -1,8 +1,10 @@
-<img src="./github/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
+<h1 align="center">
+  👋 Hi, I'm Guilherme Teixeira!
+</h1>
 
-<div>
-  <h1 align="center">Bem Vindo!</h1>
-</div>
+<p align="center">
+  <b>I'm a passionate software developer, constantly exploring new technologies and building cool stuff. </b>
+</p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,6 +28,8 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Teixeiraass&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
   </a>
 </div>
+
+<img src="./github/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
 
 <div align="center">
   <a href="https://www.instagram.com/guiguisantost/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
