@@ -1,4 +1,4 @@
-<img src="./githubb/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
+<img src="./github/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
 
 <div>
   <h1 align="center">Bem Vindo!</h1>
