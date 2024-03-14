@@ -6,6 +6,17 @@
   <b>I'm a passionate software developer, constantly exploring new technologies and building cool stuff. </b>
 </p>
 
+<details>
+  <sumary>About me</sumary>
+  <ul>
+    <li>🎓 Currently pursuing a Bachelor's degree in Computer Science</li>
+    <li>💻 Focused on front-end and full-stack development</li>
+    <li>🌱 Always eager to learn and explore new technologies</li>
+    <li>💬 Open to collaboration and sharing knowledge with others</li>
+    <li>🚀 Passionate about building user-friendly and efficient software solutions</li>
+  </ul>
+</details>
+
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
@@ -29,12 +40,10 @@
   </a>
 </div>
 
-<img src="./github/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
-
 <div align="center">
   <a href="https://www.instagram.com/guiguisantost/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-teixeira-aa35bb1ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guist2017@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+<img src="./github/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
