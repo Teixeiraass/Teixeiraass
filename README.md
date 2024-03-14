@@ -7,7 +7,6 @@
 </p>
 
 <details>
-  <sumary>About me</sumary>
   <ul>
     <li>🎓 Currently pursuing a Bachelor's degree in Computer Science</li>
     <li>💻 Focused on front-end and full-stack development</li>
