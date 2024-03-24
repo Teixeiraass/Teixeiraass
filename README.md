@@ -36,7 +36,6 @@
 
 <div align="center" color="#fff">
   <a href="https://github.com/Teixeiraass">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Teixeiraass&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&show_owner=true&theme=default"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixeiraass&theme=default&hide_border=false&&layout=compact"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Teixeiraass&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
   </a>
