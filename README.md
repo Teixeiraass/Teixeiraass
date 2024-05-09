@@ -1,4 +1,4 @@
-<img src="./github/assets/image/header-readme.svg" alt="banner de Guilherme Teixeira"/>
+<img src="./github/assets/image/linkedin background.png" alt="banner de Guilherme Teixeira"/>
 
 <h1 align="center">
   👋 Hi, I'm Guilherme Teixeira!
