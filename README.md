@@ -7,15 +7,16 @@
 </p>
 
 I'm a Computer Science graduate passionate about building creative tech solutions that make life easier.  
-Currently diving deep into the world of **Internet of Things (IoT)**, **Artificial Intelligence**, and modern web applications.
+Currently diving deep into the world of **Internet of Things (IoT)**, **Artificial Intelligence**, **cross-platform mobile apps**, and modern web applications.
   
 👨‍💻 I enjoy working across the stack — front-end, back-end, APIs — and playing with automation, smart systems, and data-driven dashboards.
+📱 I've also been working with Flutter, building sleek cross-platform mobile apps that bring these systems right to your fingertips.
   
 🚀 Always open to learning something new, experimenting with new technologies, and turning ideas into functional (and good-looking) code. 😁
 
 ## 🛠️ Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,php,go,mysql,linux,arduino,bash,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,flutter,nodejs,php,go,mysql,linux,arduino,bash,git" />
 </p>
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Teixeiraass&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teixeiraass&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
@@ -33,6 +34,7 @@ Currently diving deep into the world of **Internet of Things (IoT)**, **Artifici
 - 🌱 Exploring IoT automation with ESP32 and sensor integration
 - 🤖 Integrating AI models for smart irrigation optimization
 - ☁️ Building RESTful APIs using both Node.js and Golang for efficient and scalable backend services
+- 📱 Developing cross-platform apps with **Flutter & Dart** to control and monitor smart systems from anywhere
 
 ## 🚧 Personal Project / Thesis (TCC):
 🎓 I'm developing an intelligent monitoring and automation system for gardens and small crops.  
