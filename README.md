@@ -16,7 +16,7 @@ Currently diving deep into the world of **Internet of Things (IoT)**, **Artifici
 
 ## 🛠️ Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,flutter,nodejs,php,go,mysql,linux,arduino,bash,git" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,flutter,nodejs,php,go,mysql,linux,arduino,bash,git" />
 </p>
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Teixeiraass&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teixeiraass&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
