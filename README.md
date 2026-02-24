@@ -36,12 +36,4 @@ Currently diving deep into the world of **Internet of Things (IoT)**, **Artifici
 - ☁️ Building RESTful APIs using both Node.js and Golang for efficient and scalable backend services
 - 📱 Developing cross-platform apps with **Flutter & Dart** to control and monitor smart systems from anywhere
 
-## 🚧 Personal Project / Thesis (TCC):
-🎓 I'm developing an intelligent monitoring and automation system for gardens and small crops.  
-💧 The system enables automatic irrigation based on soil moisture, measures sunlight and temperature, and alerts the user about plant stress conditions.
-  
-📈 The solution also includes a real-time dashboard, allowing users to track data, set timers, control irrigation remotely, and receive insights for keeping plants healthy and     thriving.
-  
-🔍 Tech Stack: ESP32 | DHT11 | BH1750 | Solenoid Valve | Node.js (API) | Golang (API) | MySQL | Angular | Chart.js
-
 > "Coding a little bit of everything, failing a lot, learning even more. 🚀"
