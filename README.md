@@ -108,22 +108,22 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=go,dart,ts,js,java,php,py,swift,cpp&perline=9" />
+  <img src="https://skillicons.dev/icons?i=go,dart,ts,js,java,php,cpp&perline=9" />
 </p>
 
 **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,flutter,html,css&perline=9" />
+  <img src="https://skillicons.dev/icons?i=angular,tailwind,flutter,html,css&perline=9" />
 </p>
 
 **Backend, Data & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,firebase,docker,linux,nginx&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,firebase,docker,linux,github&perline=9" />
 </p>
 
-**IoT & Tooling**
+**IoT**
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,idea,postman,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=arduino&perline=9" />
   <br/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
