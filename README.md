@@ -46,7 +46,7 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🌱 Ground Guard</h3>
       <p>Smart garden platform: soil sensors and an irrigation controller (ESP32) talk to a Go API over MQTT, and a Flutter app monitors and waters the garden from anywhere.</p>
       <ul>
@@ -65,6 +65,8 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
       <a href="https://github.com/Teixeiraass/Ground_Guard_Flutter_New">App</a> ·
       <a href="https://github.com/Teixeiraass/Ground-Guard-Arduino">Firmware</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📈 TokThreads</h3>
       <p>Market intelligence for TikTok Shop: a Go platform that collects, enriches and analyzes products, creators and stores to find what is selling and why.</p>
@@ -81,15 +83,6 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <sub>🔒 Private / company project</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✅ Checky</h3>
-      <p><i>[TODO: Checky description: what it does, who uses it]</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/TODO-stack-lightgrey?style=flat-square" />
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 Dexter</h3>
