@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Teixeiraass">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Building+APIs+in+Go+that+scale;Shipping+Flutter+apps+to+iOS+%26+Android;Connecting+ESP32+devices+to+the+cloud;Turning+data+into+products+with+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Building+APIs+in+Go+that+scale;Shipping+Flutter+apps+to+iOS+%26+Android;Connecting+embedded+devices+to+the+cloud;Turning+data+into+products+with+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,13 +32,13 @@ type Engineer struct {
 var me = Engineer{
     Name:     "Guilherme Teixeira",
     Role:     "Full Stack Developer · B.Sc. in Computer Science",
-    Focus:    []string{"Backend in Go", "Flutter mobile", "IoT with ESP32", "Data & AI"},
+    Focus:    []string{"Backend in Go", "Flutter mobile", "IoT & embedded systems", "Data & AI"},
     Shipping: []string{"REST & real-time APIs", "Cross-platform apps", "Connected devices", "Data pipelines"},
     Motto:    "Never says no to a challenge 👊",
 }
 ```
 
-I build products end to end: from the **firmware on an ESP32** to the **Go API in the cloud** and the **Flutter app in your pocket**. I care about software that is fast, secure and actually tested: unit, integration and end-to-end, with coverage and mutation testing to prove it.
+I build products end to end: from the **firmware on a microcontroller board** to the **Go API in the cloud** and the **Flutter app in your pocket**. I care about software that is fast, secure and actually tested: unit, integration and end-to-end, with coverage and mutation testing to prove it.
 
 ---
 
@@ -48,7 +48,7 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
   <tr>
     <td colspan="2" valign="top">
       <h3>🌱 Ground Guard</h3>
-      <p>Smart garden platform: soil sensors and an irrigation controller (ESP32) talk to a Go API over MQTT, and a Flutter app monitors and waters the garden from anywhere.</p>
+      <p>Smart garden platform: soil sensors and an irrigation controller (microcontroller boards) talk to a Go API over MQTT, and a Flutter app monitors and waters the garden from anywhere.</p>
       <ul>
         <li>Soil health score, live telemetry and sensor map</li>
         <li>Signed over-the-air firmware updates with automatic rollback</li>
@@ -57,7 +57,7 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microcontrollers-E7352C?style=flat-square&logo=arduino&logoColor=white" />
         <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
@@ -125,7 +125,8 @@ I build products end to end: from the **firmware on an ESP32** to the **Go API i
 <p>
   <img src="https://skillicons.dev/icons?i=arduino&perline=9" />
   <br/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontrollers-E7352C?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
   <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
